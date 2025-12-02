@@ -32,7 +32,7 @@ def fitness (ga_f1, solution, solution_idx):
 ga_f1 = pygad.GA(
     num_generations = 100,
     num_parents_mating= 10,
-    fitness_func = fitness_function,
+    fitness_func = fitness,
     sol_per_pop = 20,
     num_genes = 1,
     gene_space = [{'low': left, 'high': right}],
