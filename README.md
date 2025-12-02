@@ -2,7 +2,7 @@
 This repository provides the required python files and dataset for tutorial 1 (Multi-Layer Perceptron) and tutorial 2 (Genetic Algorithm) for the course Artificial Intelligence in Finance (ACCFIN5230) at Adam Smith Business School, University of Glasgow, 2025-26.
 
 ## Python Code
-The lab1 uses the MLPRegressor function from sklearn package to design MLP.
+The lab1 uses the MLPRegressor function from sklearn package to design MLP.\
 The lab2 uses the GA function from pygad package to performe genetic algorithm.
 
 ## Dataset
