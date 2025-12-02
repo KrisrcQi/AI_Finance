@@ -6,7 +6,7 @@ The lab1 uses the MLPRegressor function from sklearn package to design MLP.
 The lab2 uses the GA function from pygad package to performe genetic algorithm.
 
 ## Dataset
-The lab1 code is conducted by loan data [file](Lab1_MLP/loan.csv)
+The lab1 code is conducted by loan data [file](Lab1_MLP/loan.csv)\
 The lab2 code uses random generating data set by uniform (x) and normal (y) distribution
 
 ## MLP Design
