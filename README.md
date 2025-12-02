@@ -8,4 +8,4 @@ We use the MLPRegressor function from sklearn package to performe MLP.
 The course code is conducted by loan data [file](loan.csv)
 
 ## MLP design
-![image](figrues/MPL(2,).png)
+![image](Lab1_MLP/figures/MPL(2,).png)
