@@ -5,7 +5,7 @@ This repository provides the required files for tutorial 1 (Multilayer Perceptro
 We use the MLPRegressor function from sklearn package to performe MLP.
 
 ## Data set
-The course code is conducted by loan data [file](loan.csv)
+The course code is conducted by loan data [file](Lab1_MLP/loan.csv)
 
 ## MLP design
 ![image](Lab1_MLP/figures/MPL(2,).png)
