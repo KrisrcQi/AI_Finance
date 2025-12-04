@@ -39,7 +39,7 @@ ga_f1 = pygad.GA(
     mutation_type = 'random'
 )
 ga_f1.run()
-# ga_f1.summary()
+ga_f1.summary()
 
 solution, solution_fitness, solution_idx = ga_f1.best_solution() # locating the best result of x and y
 best_x = solution[0]
