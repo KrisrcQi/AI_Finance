@@ -33,7 +33,7 @@ Optimization problems:
 GAs are generally designed:
  - Max iteration = 100
  - Number of parents mating = 20
- - fitness function = objective function (some cases are not using ojective function)
+ - Fitness function = objective function (some cases are not using ojective function)
  - Number of gene/parameters = 1 (for task 1-3) / 2 (for task 4)
  - Selection operator (parent selection): 'sss' → "Steady State Selection" 
  - Crossover type: single_point 
