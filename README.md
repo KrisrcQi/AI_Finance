@@ -21,7 +21,7 @@ The MLP structure is shown below:
 ![image](Lab1_MLP/figures/MPL(2,).png)
 
 ## GA Design
-Lab2 designs a simple genetic algorithm by using actual value without encrypting/encoding.\
+Lab2 designed examples of genetic algorithm by using actual value without encrypting/encoding.\
 However, the common encrypto method could use binary, hash, and permutation.
 
 Optimization problems:
