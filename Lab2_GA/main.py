@@ -38,7 +38,8 @@ ga_f1 = pygad.GA(
     gene_space = [{'low': left, 'high': right}],
     mutation_type = 'random'
 )
-ga_f1.run() # running
+ga_f1.run()
+# ga_f1.summary()
 
 solution, solution_fitness, solution_idx = ga_f1.best_solution() # locating the best result of x and y
 best_x = solution[0]
