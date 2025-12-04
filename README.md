@@ -22,7 +22,7 @@ The MLP structure is shown below:
 
 ## GA Design
 Lab2 designed examples of genetic algorithm by using actual value without encrypting/encoding.\
-However, the common encrypto method could use binary, hash, and permutation.
+However, the common encrypted method could use binary, hash, and permutation.
 
 Optimization problems:
 1. max f(x) = x^2  s.t. -1 <= x <= 5
